@@ -5,7 +5,7 @@
 - [`App/Containers`]: container components
 - [`App/Screens`]: the application's screens
 - [`App/Assets`]: assets (image, audio files, ...) used by the application
-- [`App/Navigation`]: react navigation navigators 
+- [`App/Navigation`]: react navigation navigators
 - [`App/Store`]: redux [actions, reducers and stores](https://redux.js.org/basics) and redux sagas
 - [`App/Service`]: application services, e.g. API clients
 - [`App/Theme`]: base styles for the application
@@ -28,6 +28,7 @@ Assuming you have all the requirements installed, you can setup and run the proj
 - `yarn install` to install the dependencies
 - create your [configuration file `App/Config/index.js`](App/Config) from `index.js` and fill the missing values
 - run the following steps for your platform
+- rename the React Native project to your own project name: `yarn run rename "YourProjectName"` (the default name is `Boilerplate`)
 
 ### Android
 
