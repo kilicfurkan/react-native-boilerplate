@@ -1,14 +1,14 @@
 ## Directory layout
 
-- [`App/Config`]: configs of the app
-- [`App/Components`]: presentational components
-- [`App/Containers`]: container components
-- [`App/Screens`]: the application's screens
-- [`App/Assets`]: assets (image, audio files, ...) used by the application
-- [`App/Navigation`]: react navigation navigators 
-- [`App/Store`]: redux [actions, reducers and stores](https://redux.js.org/basics) and redux sagas
-- [`App/Service`]: application services, e.g. API clients
-- [`App/Theme`]: base styles for the application
+- [`src/Config`]: configs of the app
+- [`src/Components`]: presentational components
+- [`src/Containers`]: container components
+- [`src/Screens`]: the application's screens
+- [`src/Assets`]: assets (image, audio files, ...) used by the application
+- [`src/Navigation`]: react navigation navigators 
+- [`src/Store`]: redux [actions, reducers and stores](https://redux.js.org/basics) and redux sagas
+- [`src/Service`]: application services, e.g. API clients
+- [`src/Theme`]: base styles for the application
 
 For more information on each directory, click the link and read the directory's README.
 
